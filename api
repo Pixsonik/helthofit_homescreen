@@ -1,0 +1,15 @@
+(open in browser)
+// for step count
+https://sugarypromises.com/api/graph.php?action=step_count
+
+
+// for macronic
+https://sugarypromises.com/api/graph.php?action=macronic
+
+
+// for calories_intake
+https://sugarypromises.com/api/graph.php?action=calories_intake
+
+
+// for calories_burn
+https://sugarypromises.com/api/graph.php?action=calories_burn
